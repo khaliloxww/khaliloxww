@@ -1,32 +1,49 @@
 # Hi, I'm Mohamed Khalil Bouitcha
 
-I am an engineering student in Digital Health and Artificial Intelligence for Healthcare at Suptech Santé in Morocco.
+Engineering student in Digital Health and Artificial Intelligence for Healthcare at Suptech Sante in Morocco.
 
-I am currently building my foundations in programming, data science, artificial intelligence, and healthcare technology.
+I am building my technical profile step by step through programming, data science, artificial intelligence, and healthcare technology. My goal is to grow into a strong profile in AI for Healthcare and Digital Health, then use these skills to build practical healthtech solutions.
 
-## Focus Areas
+## Focus
 
 - AI for Healthcare
-- Digital Health
-- Data Science
-- Medical Data
-- HealthTech Solutions
-- Python Programming
-- Machine Learning
+- Digital Health and HealthTech
+- Python programming
+- Data science and medical data
+- Machine learning foundations
+- Biomedical and healthcare technology
 
-## Current Goals
+## What I am learning now
 
-- Learn programming step by step
-- Build strong foundations in Python and data science
-- Work on healthcare-related projects
-- Document my learning journey
-- Grow into a strong profile in Digital Health and AI
+- Python basics and problem solving
+- Git and GitHub workflow
+- Data analysis with healthcare examples
+- Statistics for data science
+- Machine learning fundamentals
+- Medical data and digital health concepts
 
-## Long-Term Vision
+## Current project
+
+### python-healthcare-basics
+Beginner Python exercises connected to healthcare learning.
+
+This repository documents my first steps with Python through simple healthcare-related examples such as BMI calculation, heart rate zones, and patient vitals summaries.
+
+Repository: https://github.com/khaliloxww/python-healthcare-basics
+
+## 2026 Roadmap
+
+- Build a solid Python foundation
+- Create small healthcare data projects
+- Learn pandas, NumPy, statistics, and machine learning basics
+- Share my learning journey on LinkedIn and GitHub
+- Complete beginner-friendly certificates related to Python, data science, and AI in healthcare
+
+## Long-term vision
 
 My ambition is to become a recognized profile in Digital Health and Artificial Intelligence for Healthcare, work with leading companies, and eventually build my own healthtech company.
 
 ## Connect with me
 
-- LinkedIn: https://www.linkedin.com/in/mohamed-khalil-bouitcha-a27423303/
+- LinkedIn: https://www.linkedin.com/in/mohamed-khalil-bouitcha/
 - Email: bouitchay@gmail.com
